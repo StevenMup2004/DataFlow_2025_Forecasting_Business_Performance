@@ -12,7 +12,7 @@
 - Phân tích dữ liệu lịch sử doanh thu và số lượng bán.
 - Trực quan hóa xu hướng doanh thu theo thời gian (năm, tháng, quý).
 - Xác định các yếu tố ảnh hưởng đến doanh thu như mùa vụ, khu vực, dòng sản phẩm.
-- Xây dựng mô hình LSTM, Transformer, Arima để dự báo doanh thu.
+- Xây dựng mô hình LSTM, Transformer, Sarima để dự báo doanh thu.
 - Kiểm tra và đánh giá mô hình để tối ưu hóa kết quả dự báo.
 
 ## Dữ liệu sử dụng
