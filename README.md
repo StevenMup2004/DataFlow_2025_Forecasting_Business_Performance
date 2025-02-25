@@ -1,4 +1,4 @@
-# Dataflow_2025_Forecasting_Business_Performance
+# Dataflow 2025-Forecasting Business Performance
 
 ## Giới thiệu
 Đây là bài thi vòng 1 của cuộc thi DataFlow 2025, tập trung vào dự báo hiệu suất kinh doanh bằng các phương pháp phân tích dữ liệu và mô hình học máy. Dự án nhằm xây dựng một mô hình dự báo doanh thu và doanh số trong tương lai dựa trên dữ liệu lịch sử, giúp doanh nghiệp đưa ra các quyết định chiến lược chính xác hơn.
